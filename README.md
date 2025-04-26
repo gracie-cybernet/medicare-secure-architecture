@@ -67,6 +67,15 @@ DHCP Snooping + DAI: <br/>
 Switchport Security: <br/>
 <img src="https://imgur.com/2SKykWX.png" height="70%" width="70%" alt="Switchport Security"/>
 
+<br/><br/>
+OSPF route on HQ CORE 1: <br/>
+<img src="https://imgur.com/zHLPLxL.png" height="70%" width="70%" alt="Switchport Security"/>
+
+<br/><br/>
+IP route on HQ CORE 1: <br/>
+<img src="https://imgur.com/F9Nu6RR.png" height="70%" width="70%" alt="Switchport Security"/>
+
+
 </p>
 
 ---
